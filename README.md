@@ -1,5 +1,5 @@
 # CRCLR-Lab-Office-Rollberg
-Architecture of the CRCLR Lab Office located at Agora Rollberg, Berlin
+Architecture of the CeLab (formerly CRCLR Lab) Office located at Agora Rollberg, Berlin
 
 These design iterations for the office were done in a sprint in September 2016. The office was built according to the last design during the following month.
 
